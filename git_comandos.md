@@ -15,11 +15,11 @@
 
 ====================================================
 
-# Verificar o repositório:
+# Verificar o repositório
     git remote -v
-# Remover o repositório:    
+# Remover o repositório   
     git remote remove origin
-# Alterar o repositório:
+# Alterar o repositório
     git remote set-url origin 'NOVA URL'
 
 ====================================================    
@@ -27,7 +27,7 @@
 # Comandos básicos para git
 
 ==================================================== 
- 
+
 # Prepara o arquivo para ser commitado
     git add .
 # Commita as modificações que estão estágiadas
