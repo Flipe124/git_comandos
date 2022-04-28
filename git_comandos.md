@@ -1,4 +1,4 @@
-#                 GIT COMANDOS
+# GIT COMANDOS    
 
 ====================================================
 
@@ -15,11 +15,11 @@
 
 ====================================================
 
-# Verifica o repositório:
+# Verificar o repositório:
     git remote -v
-# Remove o repositório:    
+# Remover o repositório:    
     git remote remove origin
-# Altera o repositório:
+# Alterar o repositório:
     git remote set-url origin 'NOVA URL'
 
 ====================================================    
