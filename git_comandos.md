@@ -24,3 +24,15 @@
 
 ====================================================    
 
+# Comandos básicos para git
+
+==================================================== 
+ 
+# Prepara o arquivo para ser commitado
+    git add .
+# Commita as modificações que estão estágiadas
+    git commit -m"MENSAGEM"
+# Sobe para o repositório remoto(Git)
+    git push origin master
+
+====================================================  
