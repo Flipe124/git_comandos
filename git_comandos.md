@@ -3,8 +3,8 @@
 ====================================================
 
 # Para identificar quem fez os commits
-    git config --global user.name Flipe124
-    git config --global user.email flipeoliveria007@gmail.com
+    git config --global user.name NICK
+    git config --global user.email EMAIL@gmail.com
 
 ====================================================
 
