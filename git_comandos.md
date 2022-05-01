@@ -26,7 +26,11 @@
 + Alterar o repositório
     ```
     git remote set-url origin 'NOVA URL'
-
+    ```
++ Clonar repositório
+    ```
+    git clone https://github.com/USUÁRIO/REPOSITÓRIO
+    ```    
 ====================================================    
 # Commits
 + Prepara o arquivo para ser commitado (1)
