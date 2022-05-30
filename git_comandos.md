@@ -80,6 +80,15 @@
    - git log --all --decorate --oneline --graph
    ```
     - ("A DOG")  
++ Puxa os commits do repositório remoto
+    ```
+    git pull origin <sua-branch>
+    ```    
+
++ Remove o que foi commitado no repositório remoto
+    ```
+    git push origin <sua-branch> --force
+    ```    
 
 
 
