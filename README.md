@@ -12,8 +12,7 @@
     git config --global user.email EMAIL@gmail.com
    ```
 
-
-<br><br>
+<br>
 
 # ![alt](https://img.shields.io/badge/-Reposit%C3%B3rio-blueviolet?style=for-the-badge)
 
@@ -39,7 +38,7 @@
     git clone https://github.com/USUÁRIO/REPOSITÓRIO
     ```    
 
-<br><br>
+<br>
 
 # ![alt](https://img.shields.io/badge/-Commit-blueviolet?style=for-the-badge)
 
@@ -75,7 +74,7 @@
     ```
     git stash drop stash@{NÚMERO-DA- STACHE}       
 
-<br><br>
+<br>
 
 # ![alt](https://img.shields.io/badge/-Branch-blueviolet?style=for-the-badge)
 
@@ -102,6 +101,3 @@
     ```
     git push origin SUA-BRANCH --force
     ```    
-
-
-
